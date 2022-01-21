@@ -1,5 +1,5 @@
 # Port_Scanner
-A multithreaded port scanner written in Python using socket
+A multithreaded port scanner written in Python using socket. Given an IP, a start port and an end port, the scanner will check if the ports in between (inclusive) are open.
 
 # TODO:
 Add command line argument parser.
